@@ -4,6 +4,8 @@
 # Executar projeto
 * npm start
 
+# Console.warn
+* console.warn('teste')
 
 ---
 
